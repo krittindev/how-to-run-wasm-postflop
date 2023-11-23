@@ -17,7 +17,7 @@ git clone https://github.com/b-inary/wasm-postflop.git
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-> `node.js` for Vue (typescript)
+> `node.js` for Vue (Typescript)
 > 
 > CLICK 👉 [Downloads node.js](https://nodejs.org/en/download) 👈
 
