@@ -42,7 +42,6 @@ npm run build
 
 ```bash
 npm run serve
-
 ```
 
 ---
